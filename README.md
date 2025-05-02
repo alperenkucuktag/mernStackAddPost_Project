@@ -23,7 +23,7 @@
 git clone https://github.com/your-username/mernStackAddPost_Project.git
 ```
 
-````Start the Frontend (Client)
+```Start the Frontend (Client)
 cd client
 cd my-app
 npm start
