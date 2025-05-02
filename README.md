@@ -1,4 +1,4 @@
-# mernStackAddPost_Project
+# mernStackLogin_Project
 
 <img src="./ekran.gif"/>
 
